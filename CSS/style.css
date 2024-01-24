@@ -11,14 +11,15 @@
     height: 75px;
 }
 nav {
-    width: 73%;
+    width: 89%;
     padding: 1%;
     background-color: #D08F70;
+    margin-bottom: 25px;
 }
-ul {
-    text-align: right;
+nav ul {
+    text-align: left;
     width: 50%;
-    margin-left: auto;
+    color: white;
 }
 .heroimg {
     width: auto;
@@ -35,12 +36,22 @@ ul {
     margin: 0 auto;
     padding: 1%;
 }
+button {
+    color: white;
+    background-color: black;
+    height: 40px;
+    border-radius: 5px;
+}
 footer {
+    margin-top: 25px;
     background-color: #373738;
     padding: 2px;
+    color: white;
 }
-footer.ul {
+footer ul {
     display: inline-block;
     vertical-align: top;
+    text-align: left;
     padding: 1%;
+    color: white;
 }
