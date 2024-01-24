@@ -16,9 +16,8 @@ nav {
     background-color: #D08F70;
     margin-bottom: 25px;
 }
-nav ul {
-    text-align: left;
-    width: 50%;
+header ul {
+    float: right;
     color: white;
 }
 .heroimg {
