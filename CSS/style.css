@@ -3,17 +3,17 @@
     vertical-align: top;
 }
 .logo {
-    width: 23%;
+    text-align: left;
+    width: 2%;
     padding: 1%;
-    text-align: center;
+}
+#logonav {
+    height: 75px;
 }
 nav {
+    width: 73%;
     padding: 1%;
     background-color: #D08F70;
-    width: 90rem;
-    height: 5.6875rem;
-    flex-shrink: 0;
-    font-family: Roca, serif;
 }
 ul {
     text-align: right;
@@ -21,22 +21,26 @@ ul {
     margin-left: auto;
 }
 .heroimg {
+    width: auto;
     height: 600px;
     padding: 25px;
 }
+#mainphoto {
+    height: 300px;
+}
 .content {
-    display: block;
-    max-width: 300px;
+    text-align: center;
+    background-color: beige;
+    width: 500px;
     margin: 0 auto;
     padding: 1%;
 }
 footer {
     background-color: #373738;
     padding: 2px;
-
 }
 footer.ul {
     display: inline-block;
     vertical-align: top;
-    padding: 1px;
+    padding: 1%;
 }
