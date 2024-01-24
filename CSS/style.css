@@ -25,8 +25,10 @@ ul {
     padding: 25px;
 }
 .content {
-    width: 500px;
+    display: block;
+    max-width: 300px;
     margin: 0 auto;
+    padding: 1%;
 }
 footer {
     background-color: #373738;
